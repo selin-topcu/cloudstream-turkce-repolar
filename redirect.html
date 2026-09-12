@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const redirectUrl = urlParams.get('r');
+        if (redirectUrl) {
+            window.location.href = redirectUrl;
+        }
+    </script>
+</head>
+<body>
+</body>
+</html>
