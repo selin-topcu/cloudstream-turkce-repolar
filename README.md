@@ -7,8 +7,11 @@ Bu sayfadaki repoları CloudStream uygulamanıza doğrudan veya kopyala-yapışt
 ## 📺 TV ve Hızlı Erişim
 TV tarayıcılarından bu sayfaya kolayca ulaşmak için:
 
-> 🌐 **Kısa Adres:** `git.new/sQuah6H`  
-> *(Orijinal Sayfa: [https://github.com/selin-topcu/cloudstream-turkce-repolar](https://github.com/selin-topcu/cloudstream-turkce-repolar))*
+> 🌐 **Kısa Adres:** `git.new/trepo`  
+
+<p align="center">
+  <img src="https://api.dub.co/qr?url=https%3A%2F%2Fgit.new%2Ftrepo%3Fqr%3D1" alt="git.new/trepo QR Code" width="180">
+</p>
 
 ---
 
