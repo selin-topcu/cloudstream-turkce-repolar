@@ -60,6 +60,15 @@ https://raw.githubusercontent.com/kreadir/kreaStream/refs/heads/main/repo.json
 
 ---
 
+### SafakStream Repository
+> 🔗 [CloudStream'de Aç](https://selin-topcu.github.io/cloudstream-turkce-repolar/redirect.html?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FSafakStream%2FSafakStream%2Fbuilds%2Frepo.json)
+
+```text
+https://raw.githubusercontent.com/SafakStream/SafakStream/builds/repo.json
+```
+
+---
+
 ### Turkish Providers Repository
 > 🔗 [CloudStream'de Aç](https://selin-topcu.github.io/cloudstream-turkce-repolar/redirect.html?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2Fferoxx%2FKekik-cloudstream%2Frefs%2Fheads%2Fbuilds%2Frepo.json)
 
