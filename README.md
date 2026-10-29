@@ -33,6 +33,15 @@ https://raw.githubusercontent.com/Wiojelt/WioLand/builds/repo.json
 
 ---
 
+### Mrc
+> 🔗 [CloudStream'de Aç](https://selin-topcu.github.io/cloudstream-turkce-repolar/redirect.html?r=cloudstreamrepo://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json)
+
+```text
+https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
+```
+
+---
+
 ### Türksinema
 > 🔗 [CloudStream'de Aç](https://selin-topcu.github.io/cloudstream-turkce-repolar/redirect.html?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FTurkSinema%2Fmain%2Frepo.json)
 
