@@ -51,29 +51,11 @@ https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json
 
 ---
 
-### cstest
-> 🔗 [CloudStream'de Aç](https://selin-topcu.github.io/cloudstream-turkce-repolar/redirect.html?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2Fctnkyaumt%2Fcstest%2Fmaster%2Frepo.json)
-
-```text
-https://raw.githubusercontent.com/ctnkyaumt/cstest/master/repo.json
-```
-
----
-
 ### plt-stream
 > 🔗 [CloudStream'de Aç](https://selin-topcu.github.io/cloudstream-turkce-repolar/redirect.html?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2Fpltmustafa%2Fplt-stream%2Frefs%2Fheads%2Fmaster%2Frepo.json)
 
 ```text
 https://raw.githubusercontent.com/pltmustafa/plt-stream/refs/heads/master/repo.json
-```
-
----
-
-### kreaStream
-> 🔗 [CloudStream'de Aç](https://selin-topcu.github.io/cloudstream-turkce-repolar/redirect.html?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2Fkreadir%2FkreaStream%2Frefs%2Fheads%2Fmain%2Frepo.json)
-
-```text
-https://raw.githubusercontent.com/kreadir/kreaStream/refs/heads/main/repo.json
 ```
 
 ---
